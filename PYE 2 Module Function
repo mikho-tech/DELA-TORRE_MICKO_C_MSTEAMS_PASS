@@ -1,0 +1,10 @@
+import math
+
+print("--- Task 3: Rounding Showdown ---")
+value = -6.9
+print("Value:",value)
+print("ceil -",math.ceil(value))
+print("floor -",math.floor(value))
+print("trunc -",math.trunc(value))
+
+# Your answer: floor rounds down to a more negative integer, while trucn will round towards zero.
