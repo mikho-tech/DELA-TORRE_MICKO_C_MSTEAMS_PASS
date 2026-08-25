@@ -1,0 +1,9 @@
+import math
+import random
+
+print(f"math.sinh(1.0) -> {math.sinh(1.0)}", "/", round(math.sinh(1.0), 4))
+print(f"math.cosh(1.0) -> {math.cosh(1.0)}", "/", round(math.cosh(1.0), 4))
+print(f"math.tanh(1.0) -> {math.tanh(1.0)}", "/", round(math.tanh(1.0), 4))
+print(f"math.asinh(1.0) -> {math.asinh(1.0)}", "/", round(math.asinh(1.0), 4))
+print(f"math.acosh(1.5) -> {math.acosh(1.5)}", "/", round(math.acosh(1.5), 4))
+print(f"math.atanh(0.5) -> {math.atanh(0.5)}", "/", round(math.atanh(0.5), 4))
